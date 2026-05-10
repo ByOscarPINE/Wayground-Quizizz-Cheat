@@ -2,13 +2,15 @@
 // @name         Wayground Quizizz Cheat: Show Answers & Block Logs
 // @description  Automatically fetches answers and blocks tracking logs for Wayground.
 // @namespace    http://tampermonkey.net/
-// @version      1.0.0
+// @version      1.0.1
 // @author       byOscar
 // @license      GPLv3
 // @match        *://*.wayground.com/*
 // @match        *://*.quizizz.com/*
 // @icon         https://cf.quizizz.com/img/wayground/brand/favicon/favicon-32x32.ico
 // @grant        GM_xmlhttpRequest
+// @updateURL    https://greasyfork.org/scripts/577388/code/script.meta.js
+// @downloadURL  https://greasyfork.org/scripts/577388/code/script.user.js
 
 // ==/UserScript==
 
