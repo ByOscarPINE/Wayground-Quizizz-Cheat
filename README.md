@@ -1,4 +1,4 @@
-# 🚀 Wayground & Quizizz Cheat
+# 🚀 Wayground Quizizz Cheat
 
 <p align="center">
   <img src="https://img.shields.io/badge/License-GPL--3.0-blue.svg" alt="License GPLv3">
@@ -12,8 +12,10 @@
 
 ## ✨ Key Features
 
-* **🤖 Auto-Solver:** Real-time answer retrieval for Quizizz and Wayground.
+* **🤖 Auto-Solver:** Real-time answer retrieval for Wayground Quizizz.
 * **🛡️ Anti-Log System:** Blocks platform tracking requests to prevent unusual activity logs.
+* **🚫 Stealth Mode & Focus Protection:** Disables forced fullscreen and prevents "out-of-focus" tracking. Visual alerts are now completely suppressed, and the script prevents any activity reports from reaching the server.
+* **🔓 Freedom of Action:** Re-enables text selection, and copy-paste functionality, bypasssing platform restrictions.
 * **🎨 Minimalist UI:** Integrated floating panel with native dark mode, designed for zero-distraction.
 * **⚡ Optimized Performance:** Lightweight Vanilla JavaScript core to ensure zero latency.
 
